@@ -1,4 +1,4 @@
-DataScience's Frontend Code Test
+my app using DataScience's Frontend Code Test
 ==================
 
 This is an at-home exercise that we use as part of our standard interview process for frontend and full-stack developers.
@@ -20,7 +20,7 @@ Using the provided JSON data representing a collection of meal recipes, create a
 * Persist the selections locally and regenerate the view on page refresh.
 * In a README note any required setup to be able to run the app, such as modifying hosts file, etc.
 
-# FrontendCodeTest App Setup and Installation Instructions
+# my FrontendCodeTest App Setup and Installation Instructions
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.9.
 
