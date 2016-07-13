@@ -16,8 +16,8 @@ describe('App: FrontendCodeTest', () => {
     expect(app).toBeTruthy();
   }));
 
-  it('should have as title \'app works!\'',
+  it('should have as title \'My Recipes app using the DataScienceInc frontend-code-test\'',
       inject([AppComponent], (app: AppComponent) => {
-    expect(app.title).toEqual('app works!');
+    expect(app.title).toEqual('My Recipes app using the DataScienceInc frontend-code-test');
   }));
 });

@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['app.component.css']
 })
 export class AppComponent {
-  title = 'My app using the DataScienceInc frontend-code-test';
+  title = 'My Recipes app using the DataScienceInc frontend-code-test';
 }
